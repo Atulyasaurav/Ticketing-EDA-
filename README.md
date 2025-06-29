@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎟️ Microservices Ticketing App (EDA + Kubernetes)
 
 A production-grade, event-driven microservices architecture for a ticketing platform where users can buy and sell tickets. Built using Node.js, TypeScript, NATS, Redis, Stripe, and deployed on Kubernetes.
@@ -79,3 +80,6 @@ graph TD
   NATS --> Order
   NATS --> Expiration
   NATS --> Payment
+=======
+# Ticketing-EDA-
+>>>>>>> 2bdf577353b4a9c97828a1f08a1fa6c5eeb16438
