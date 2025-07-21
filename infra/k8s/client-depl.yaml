@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: atulyasauravabhisanchit/client:v1
+          image: atulyasauravabhisanchit/client:9
 ---
 apiVersion: v1
 kind: Service
