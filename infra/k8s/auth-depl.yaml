@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: atulyasauravabhisanchit/auth:10
+          image: atulyasauravabhisanchit/auth:13
           ports:
             - containerPort: 4000
           env:
