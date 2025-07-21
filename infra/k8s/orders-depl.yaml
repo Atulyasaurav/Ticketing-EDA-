@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: orders
-          image: atulyasauravabhisanchit/orders:13
+          image: atulyasauravabhisanchit/orders:14
           ports:
             - containerPort: 4002
           env:
