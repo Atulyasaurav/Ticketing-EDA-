@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: expiration
-          image: atulyasauravabhisanchit/expiration:19
+          image: atulyasauravabhisanchit/expiration:20
           env:
             - name: NATS_CLIENT_ID
               valueFrom:
