@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: tickets
-          image: atulyasauravabhisanchit/tickets:42
+          image: atulyasauravabhisanchit/tickets:45
           ports:
             - containerPort: 4001
           env:

@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: payments
-          image: atulyasauravabhisanchit/payments:42
+          image: atulyasauravabhisanchit/payments:45
           env:
             - name: NATS_CLIENT_ID
               valueFrom:
